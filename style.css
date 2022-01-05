@@ -1,5 +1,58 @@
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: #E5E5E5;
+    background-color: #ffffff;
     margin: 0;
+}
+.flexible{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 60%;
+    margin-left: 11%;
+}
+.span-text{
+    color:#FFAD5A;
+}
+h1{
+    font-family:'Yeseva One';
+    font-size: 60px;
+}
+#mission{
+    position: absolute;
+    width: 4px;
+    height: 166px;
+    left: 156px;
+    top: 157px;
+    background: #FF5959;
+    border-radius: 5px;
+}
+.half-width-content{
+    margin-top: 148px;
+    margin-left:170px ;
+}
+.about-explore{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    margin-bottom: 40px;
+   text-align: justify;
+}
+
+.button{
+    background-color: #FF5959;
+    color: white;
+    padding: 15px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+}
+.scroll{
+    margin-top: 50px;
+    font-size: 18px;
+    font-weight: 400;
 }
