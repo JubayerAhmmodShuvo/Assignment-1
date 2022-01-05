@@ -5,6 +5,7 @@ body{
 }
 .flexible{
     display: flex;
+    margin-bottom: 80px;
 }
 .half-width{
     width: 50%;
@@ -25,13 +26,16 @@ h1{
     width: 4px;
     height: 166px;
     left: 156px;
-    top: 157px;
+    top: 180px;
     background: #FF5959;
     border-radius: 5px;
 }
 .half-width-content{
-    margin-top: 148px;
+    margin-top: 170px;
     margin-left:170px ;
+}
+.para-text{
+    margin-left: 156px;
 }
 .about-explore{
     font-size: 18px;
@@ -55,4 +59,44 @@ h1{
     margin-top: 50px;
     font-size: 18px;
     font-weight: 400;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+#boxes{
+    margin-left: 156px;
+    margin-right: 150px;
+}
+.mission-content{
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 26px;
+    width: 30%;
+    padding: 25px;
+    margin: 20px;
+}
+.mission-image img{
+   width: 63.5%;
+}
+.vission-image img{
+    width: 60%;
+ }
+.vission-content{
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 26px;
+    width: 30%;
+    padding: 25px;
+    margin: 20px;
+}   
+.goals-content{
+    background: #FFF4D6;
+    border-radius: 26px;
+    width: 30%;
+    padding: 25px;
+    margin: 20px;
+}
+h3{
+    font-size: 24px;
+    font-weight: 600;
 }
