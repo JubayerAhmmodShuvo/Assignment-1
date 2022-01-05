@@ -140,3 +140,26 @@ span{
 #without-limit{
   padding-right: 20%;
 }
+#develop{
+  padding: 7%;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    height: 180px;
+    padding-top: 40px;
+}
+footer h2{
+    font-size: 36px;
+    font-family: 'Lobster', cursive;
+   
+}
+.red{
+    color: #FF5959;
+    margin-bottom: 0;
+}
+footer p{
+    font-size: 14px;
+    font-family: Manrope;
+}
