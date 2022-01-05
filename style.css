@@ -108,14 +108,25 @@ h3{
     margin-left: 19px;
 }
 .sixty{
-    width: 75%;
+    width: 70%;
 }
-.bg{
+#bg{
     background-image: url('/images/shapes/shape-1.png');
     background-repeat: no-repeat;
     background-size: 13%;
     background-position: 4%  29%;
 
+}
+#bg1{
+    background-image: url('/images/shapes/shape-1.png');
+    background-repeat: no-repeat;
+    background-size: 13%;
+    background-position: 95%  89.5%;
+
+
+}
+.second img{
+    margin-bottom: 110px;
 }
 h4{
     font-size: 36px;
@@ -125,4 +136,7 @@ h4{
 span{
     font-size: 36px;
     font-weight: bold;
+}
+#without-limit{
+  padding-right: 20%;
 }
