@@ -19,9 +19,8 @@ h1{
 }
 .span-text{
     color:#FFAD5A;
-    font-size: 60px;
 }
-#focus{
+.focus{
     font-family:'Yeseva One';
     font-size: 60px;
 }
@@ -132,20 +131,20 @@ h3{
 .second img{
     margin-bottom: 110px;
 }
-h4{
+ h4{
     font-size: 36px;
     font-weight: bold;
     line-height: 54px;
 }
-span{
-    font-size: 36px;
-    font-weight: bold;
+h5{
+   font-size: 48px;
+
 }
 #without-limit{
   padding-right: 20%;
 }
 #develop{
-  padding: 5%;
+  padding: 2.3%;
 }
 #own-part{
     text-align: center;
