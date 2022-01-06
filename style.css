@@ -5,7 +5,7 @@ body{
 }
 .flexible{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom:100px;
 }
 .half-width{
     width: 50%;
@@ -14,10 +14,14 @@ body{
     width: 60%;
     margin-left: 11%;
 }
+h1{
+    font-size: 60px;
+}
 .span-text{
     color:#FFAD5A;
+    font-size: 60px;
 }
-h1{
+#focus{
     font-family:'Yeseva One';
     font-size: 60px;
 }
@@ -121,7 +125,7 @@ h3{
     background-image: url('/images/shapes/shape-1.png');
     background-repeat: no-repeat;
     background-size: 13%;
-    background-position: 95%  89.5%;
+    background-position: 95%  91%;
 
 
 }
@@ -143,6 +147,9 @@ span{
 #develop{
   padding: 7%;
 }
+#own-part{
+    text-align: center;
+}
 footer{
     text-align: center;
     color: white;
@@ -161,5 +168,5 @@ footer h2{
 }
 footer p{
     font-size: 14px;
-    font-family: Manrope;
+    font-family: 'Manrope';
 }
