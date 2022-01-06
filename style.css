@@ -137,14 +137,15 @@ h3{
     line-height: 54px;
 }
 h5{
-   font-size: 48px;
+    font-size: 48px;
+    line-height: 1%;
 
 }
 #without-limit{
-  padding-right: 20%;
+    padding-right: 20%;
 }
 #develop{
-  padding: 2.3%;
+    padding: 2.3%;
 }
 #own-part{
     text-align: center;
