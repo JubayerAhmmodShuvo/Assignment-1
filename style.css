@@ -118,7 +118,7 @@ h3{
     background-image: url('/images/shapes/shape-1.png');
     background-repeat: no-repeat;
     background-size: 13%;
-    background-position: 4%  29%;
+    background-position: 4%  23%;
 
 }
 #bg1{
@@ -145,10 +145,13 @@ span{
   padding-right: 20%;
 }
 #develop{
-  padding: 7%;
+  padding: 5%;
 }
 #own-part{
     text-align: center;
+}
+#own-img{
+    margin-top: 7%;
 }
 footer{
     text-align: center;
